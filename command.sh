@@ -2,6 +2,17 @@
 :'
 26th April 2026 (Sunday - sem6 IITP) restructure the directory 
 
+
+created Numerical Methods for Data Science
+In this commit I have created three main folders:
+Nume_Diff: NEWTON forward & Backward diff operators
+
+Num_Interg: Trapazoidal, comp_trap, simpson 1/3 rule, Gauss Legendre and Hermite
+
+Linear_Alg: LU, PLU, QR, Cholesky, DoLittle, Gauss-Elimination and Jorden matrix decomposition
+
+concept of INTERPOLATION in 1D, 2D, 3D for the data sci and analytics.
+
 '
 
 
